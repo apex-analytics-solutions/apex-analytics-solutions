@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 Introduction to Myself 
 
-<!--
-**apex-analytics-solutions/apex-analytics-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1000" height = "300" alt="Coding" src="https://github.com/apex-analytics-solutions/Anees-Ur-Rehman/blob/230e41aba4239e40f76d95a0b39310edd74b4eac/Blue%20Modern%20Data%20Analysis%20Presentation.jpg">
 
-Here are some ideas to get you started:
+Hi, I'm Anees Ur Rehman, a passionate and results-driven Data Analyst dedicated to transforming complex data into clear, actionable insights. My expertise spans a robust toolkit, including Excel for advanced data manipulation and reporting, MySQL for efficient database querying and management, and R for statistical analysis and robust data modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I leverage Tableau and Power BI to create dynamic and interactive dashboards, turning raw data into compelling visual stories that drive informed decision-making. My core strengths lie in data cleaning, ensuring data accuracy and consistency, and data visualization, presenting intricate datasets in an easily digestible and impactful manner. Furthermore, I'm exploring and integrating AI-driven techniques to enhance efficiency in MySQL queries, automate data cleaning processes in Excel, and uncover deeper insights in Tableau and Power BI visualizations, pushing towards more advanced and predictive analysis.
+
+I am always eager to learn, collaborate, and explore impactful innovations in data analysis and data science. Let's connect and explore how we can grow together.
+
+- Excel:
+- SQL:
+- Python:
+- R:
+- Tableau:
+- Power BI
+
+## ⚙️Skills
+
+- Language: SQL, Python,R
+- Database: MySQL
+- Visualization: Power BI, Tableau
+- Spreadsheet: MS Excel
+
+## 🖇️Projects
+
+- [Check out my Project Portfolio:](https://github.com/apex-analytics-solutions/Portfolio-Anees-Ur-Rehman)
+  
+## 🕸️Let's Connect
+
+- [My LinkedIn Profile](https://www.linkedin.com/in/anees-ur-rehman-7a2245378/)
