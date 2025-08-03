@@ -1,6 +1,6 @@
 # Hi 👋 Introduction to Myself 
 
-<img width="1000" height = "300" alt="Coding" src="https://github.com/apex-analytics-solutions/Anees-Ur-Rehman/blob/230e41aba4239e40f76d95a0b39310edd74b4eac/Blue%20Modern%20Data%20Analysis%20Presentation.jpg">
+<img width="1000" height = "300" alt="Coding" src="https://github.com/apex-analytics-solutions/apex-analytics-solutions/blob/aa2230dbe3728175680f03bec51abf2138c12de5/Blue%20Modern%20Data%20Analysis%20Presentation.jpg">
 
 Hi, I'm Anees Ur Rehman, a passionate and results-driven Data Analyst dedicated to transforming complex data into clear, actionable insights. My expertise spans a robust toolkit, including Excel for advanced data manipulation and reporting, MySQL for efficient database querying and management, and R for statistical analysis and robust data modeling.
 
