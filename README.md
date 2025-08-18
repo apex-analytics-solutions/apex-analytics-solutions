@@ -13,7 +13,6 @@ I am always eager to learn, collaborate, and explore impactful innovations in da
 - Python:
 - R:
 - Tableau:
-- Power BI
 
 ## ⚙️Skills
 
