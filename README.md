@@ -15,7 +15,7 @@ I am always eager to learn, collaborate, and explore impactful innovations in da
 - Tableau:
 
 ## ⚙️Skills
-Coursera Profile Link: [My Coursera Profile](https://www.coursera.org/user/256f367f5baff3731e0ba8deb71ca281)
+Coursera Profile Link: [My Coursera Profile](https://www.coursera.org/learner/anees-ur-rehman-3075)
 - Language: SQL, Python,R
 - Database: MySQL
 - Visualization:Tableau
