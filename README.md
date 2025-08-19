@@ -4,7 +4,7 @@
 
 Hi, I'm Anees Ur Rehman, a passionate and results-driven Data Analyst dedicated to transforming complex data into clear, actionable insights. My expertise spans a robust toolkit, including Excel for advanced data manipulation and reporting, MySQL for efficient database querying and management, and R for statistical analysis and robust data modeling.
 
-I leverage Tableau and Power BI to create dynamic and interactive dashboards, turning raw data into compelling visual stories that drive informed decision-making. My core strengths lie in data cleaning, ensuring data accuracy and consistency, and data visualization, presenting intricate datasets in an easily digestible and impactful manner. Furthermore, I'm exploring and integrating AI-driven techniques to enhance efficiency in MySQL queries, automate data cleaning processes in Excel, and uncover deeper insights in Tableau and Power BI visualizations, pushing towards more advanced and predictive analysis.
+I leverage Tableau to create dynamic and interactive dashboards, turning raw data into compelling visual stories that drive informed decision-making. My core strengths lie in data cleaning, ensuring data accuracy and consistency, and data visualization, presenting intricate datasets in an easily digestible and impactful manner. Furthermore, I'm exploring and integrating AI-driven techniques to enhance efficiency in MySQL queries, automate data cleaning processes in Excel, and uncover deeper insights in Tableau  visualizations, pushing towards more advanced and predictive analysis.
 
 I am always eager to learn, collaborate, and explore impactful innovations in data analysis and data science. Let's connect and explore how we can grow together.
 
@@ -18,7 +18,7 @@ I am always eager to learn, collaborate, and explore impactful innovations in da
 Coursera Profile Link: [My Coursera Profile](https://www.coursera.org/user/256f367f5baff3731e0ba8deb71ca281)
 - Language: SQL, Python,R
 - Database: MySQL
-- Visualization: Power BI, Tableau
+- Visualization:Tableau
 - Spreadsheet: MS Excel
 
 ## 🖇️Projects
