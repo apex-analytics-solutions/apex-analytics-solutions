@@ -13,18 +13,21 @@ I am always eager to learn, collaborate, and explore impactful innovations in da
 - Python:
 - R:
 - Tableau:
-
+---
 ## ⚙️Skills
 Coursera Profile Link: [My Coursera Profile](https://www.coursera.org/learner/anees-ur-rehman-3075)
-- Language: SQL, Python,R
-- Database: MySQL
-- Visualization:Tableau
-- Spreadsheet: MS Excel
+  
+**Languages & Tools**:  
+`MySQL` • `Python` • `R`
 
-## 🖇️Projects
+**Data Analytics**:  
+`Tableau` • `Excel` • `Plotly` • `Pandas` • `NumPy` • `Matplotlib`  
+
+---
+## 🛠️Projects
 
 - [Check out my Project Portfolio:](https://github.com/apex-analytics-solutions/Portfolio-Anees-Ur-Rehman)
-  
-## 🕸️Let's Connect
+---
+## 🌐Let's Connect
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/anees-ur-rehman-7a2245378/)
+-📌 [My LinkedIn Profile](https://www.linkedin.com/in/anees-ur-rehman-7a2245378/)
