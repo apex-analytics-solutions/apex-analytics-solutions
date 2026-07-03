@@ -164,3 +164,187 @@ My goal is to become a professional **Data Scientist** capable of designing scal
 - GitHub
 
 - Git
+<!-- ========================================================= -->
+<!--                     PART 2                               -->
+<!-- ========================================================= -->
+
+---
+
+# 🚀 Featured Project
+
+## 🏦 AI Loan Eligibility Prediction System
+
+<p align="center">
+A complete end-to-end Machine Learning web application that predicts loan approval status in real-time using multiple trained models and intelligent decision logic.
+</p>
+
+### 🔥 Key Highlights
+
+- 🤖 Real-time Loan Prediction System
+- 🏆 Best Model Auto Selection (ML Pipeline)
+- 📊 Interactive Streamlit Dashboard
+- 📈 Probability & Risk Analysis
+- 🧠 Feature Importance Explanation
+- 💬 AI Chatbot Assistant
+- 📄 PDF Report Generator
+- 🎨 Professional UI/UX Design
+
+### 🛠️ Tech Stack Used
+
+`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `Streamlit` • `Plotly` • `Matplotlib` • `Seaborn`
+
+---
+
+# 📜 Certificates
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Google-Certified-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Tata-Internship-orange?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=apex-analytics-solutions&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=apex-analytics-solutions&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apex-analytics-solutions&theme=tokyonight" />
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apex-analytics-solutions&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apex-analytics-solutions&theme=react-dark" />
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become Professional Data Scientist
+- 🤖 Master Machine Learning & AI
+- ☁️ Learn Cloud Deployment (AWS / Azure)
+- 📊 Build Real-Time BI Dashboards
+- 🧠 Work on Production ML Systems
+- 💼 Get Industry-Level Job in Data Science
+
+---
+
+# 📌 Portfolio
+
+> Coming Soon: Advanced Data Science Portfolio Projects
+
+---
+
+# 💡 Quote
+
+> "Turning Data into Decisions, and Models into Impact."
+<!-- ========================================================= -->
+<!--                     PART 3                               -->
+<!-- ========================================================= -->
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/apex-analytics-solutions">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Profile Insights
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=apex-analytics-solutions&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</p>
+
+---
+
+# 🚀 About My Work Style
+
+- 🔍 I focus on **real-world data problems**
+- 🧠 I build **end-to-end ML systems**
+- 📊 I love **data storytelling & visualization**
+- ⚙️ I prefer **production-ready solutions**
+- 🚀 I continuously improve my skills in AI & Data Science
+
+---
+
+# 💼 Hiring Status
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20To-Data%20Science%20Roles-success?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🧾 Final Message
+
+<p align="center">
+
+🚀 I am actively seeking opportunities in  
+**Data Science | Machine Learning | Data Analytics**
+
+</p>
+
+---
+
+# ⭐ Closing Statement
+
+<p align="center">
+
+💡 *"Data is the new oil, but insights are the real power."*  
+🔥 Built with passion, consistency, and real-world thinking.
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, don't forget to star my repositories!
+
+</p>
